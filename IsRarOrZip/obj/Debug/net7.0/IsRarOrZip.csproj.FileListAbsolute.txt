@@ -1,0 +1,15 @@
+C:\Users\s.papi\RiderProjects\IsRarOrZip\IsRarOrZip\bin\Debug\net7.0\IsRarOrZip.exe
+C:\Users\s.papi\RiderProjects\IsRarOrZip\IsRarOrZip\bin\Debug\net7.0\IsRarOrZip.deps.json
+C:\Users\s.papi\RiderProjects\IsRarOrZip\IsRarOrZip\bin\Debug\net7.0\IsRarOrZip.runtimeconfig.json
+C:\Users\s.papi\RiderProjects\IsRarOrZip\IsRarOrZip\bin\Debug\net7.0\IsRarOrZip.dll
+C:\Users\s.papi\RiderProjects\IsRarOrZip\IsRarOrZip\bin\Debug\net7.0\IsRarOrZip.pdb
+C:\Users\s.papi\RiderProjects\IsRarOrZip\IsRarOrZip\obj\Debug\net7.0\IsRarOrZip.csproj.AssemblyReference.cache
+C:\Users\s.papi\RiderProjects\IsRarOrZip\IsRarOrZip\obj\Debug\net7.0\IsRarOrZip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.papi\RiderProjects\IsRarOrZip\IsRarOrZip\obj\Debug\net7.0\IsRarOrZip.AssemblyInfoInputs.cache
+C:\Users\s.papi\RiderProjects\IsRarOrZip\IsRarOrZip\obj\Debug\net7.0\IsRarOrZip.AssemblyInfo.cs
+C:\Users\s.papi\RiderProjects\IsRarOrZip\IsRarOrZip\obj\Debug\net7.0\IsRarOrZip.csproj.CoreCompileInputs.cache
+C:\Users\s.papi\RiderProjects\IsRarOrZip\IsRarOrZip\obj\Debug\net7.0\IsRarOrZip.dll
+C:\Users\s.papi\RiderProjects\IsRarOrZip\IsRarOrZip\obj\Debug\net7.0\refint\IsRarOrZip.dll
+C:\Users\s.papi\RiderProjects\IsRarOrZip\IsRarOrZip\obj\Debug\net7.0\IsRarOrZip.pdb
+C:\Users\s.papi\RiderProjects\IsRarOrZip\IsRarOrZip\obj\Debug\net7.0\IsRarOrZip.genruntimeconfig.cache
+C:\Users\s.papi\RiderProjects\IsRarOrZip\IsRarOrZip\obj\Debug\net7.0\ref\IsRarOrZip.dll
